@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{INTRODUCTION}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Challenges in Big Data Applications}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Emerging Near-Memory Processing Technology}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Architecture of Near-Memory Processing}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Memory Stack}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Physical Characteristics of 3D-stacked Memory}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Memory Addressing in NMP}{subsection.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Logic Layer}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.1}{general-purpose processor}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Accelerators}{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.3}{reconfigurable compute unit}{subsection.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{Host}{section.2}% 13
+\BOOKMARK [1][-]{section.3}{Algorithmic level optimization}{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{reduce non-trivial communication}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.2}{}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Case studies}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{case 1}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{case 2}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{case 3}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.4}{Some Common difficulties}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{case 1}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.2}{case 2}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{CONCLUSIONS}{}% 25
+\BOOKMARK [1][-]{section*.3}{References}{}% 26

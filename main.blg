@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: ref.bib
+Warning--entry type for "Micron" isn't style-file defined
+--line 413 of file ref.bib
+Warning--entry type for "HMC-1.0" isn't style-file defined
+--line 427 of file ref.bib
+Warning--entry type for "HMC-2.1" isn't style-file defined
+--line 441 of file ref.bib
+Warning--entry type for "HBM" isn't style-file defined
+--line 455 of file ref.bib
+Warning--entry type for "AMD" isn't style-file defined
+--line 469 of file ref.bib
+Warning--entry type for "ARM-Cortex-A5" isn't style-file defined
+--line 529 of file ref.bib
+Warning--entry type for "ARM-Cortex-A7" isn't style-file defined
+--line 543 of file ref.bib
+Warning--empty booktitle in Loh2013APT
+You've used 31 entries,
+            1876 wiz_defined-function locations,
+            671 strings with 10844 characters,
+and the built_in function-call counts, 9518 in all, are:
+= -- 818
+> -- 516
+< -- 0
++ -- 185
+- -- 154
+* -- 731
+:= -- 1356
+add.period$ -- 32
+call.type$ -- 31
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 32
+duplicate$ -- 461
+empty$ -- 899
+format.name$ -- 154
+if$ -- 2291
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 25
+newline$ -- 97
+num.names$ -- 31
+pop$ -- 158
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 333
+stack$ -- 0
+substring$ -- 568
+swap$ -- 177
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 82
+width$ -- 33
+write$ -- 290
+(There were 8 warnings)
