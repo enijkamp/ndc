@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 NOV 2017 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 NOV 2017 18:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -631,39 +631,37 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 93.
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <11> not available
-(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 106.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 114.
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 109.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 114.
+(Font)              <11> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 114.
+(Font)              <7.69997> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 114.
+(Font)              <5.5> on input line 120.
 
-Underfull \hbox (badness 1527) in paragraph at lines 114--115
-[]\T1/ptm/b/n/11 Topology-driven com-pu-ta-tions. \T1/ptm/m/n/11 Data-intensive
-
- []
-
-
-Underfull \hbox (badness 2088) in paragraph at lines 117--118
-\T1/ptm/m/n/11 rithms also have it-er-a-tive com-pu-ta-tion struc-
+Underfull \hbox (badness 4967) in paragraph at lines 120--121
+[]\T1/ptm/b/n/11 Topology-driven com-pu-ta-tion. \T1/ptm/m/n/11 Data-intensive
  []
 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 1622) in paragraph at lines 120--120
- \T1/ptm/m/it/11 B. \T1/ptm/b/n/11 Two ar-chi-tec-tural "Walls" fac-ing by Data
--
+Underfull \hbox (badness 1436) in paragraph at lines 123--124
+\T1/ptm/m/n/11 rithms ex-hibit an it-er-a-tive com-pu-ta-tion struc-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 126--126
+ \T1/ptm/m/it/11 B. \T1/ptm/b/n/11 Two ar-chi-tec-tural "Walls" faced by Data-
  []
 
 <figures/energy_consumption.png, id=14, 514.92375pt x 171.64125pt>
 File: figures/energy_consumption.png Graphic file (type png)
 
 <use figures/energy_consumption.png>
-Package pdftex.def Info: figures/energy_consumption.png used on input line 125.
+Package pdftex.def Info: figures/energy_consumption.png used on input line 131.
 
 (pdftex.def)             Requested size: 221.41289pt x 73.80428pt.
  [2 <./figures/energy_consumption.png>]
@@ -671,57 +669,62 @@ Package pdftex.def Info: figures/energy_consumption.png used on input line 125.
 File: figures/architecture.png Graphic file (type png)
 
 <use figures/architecture.png>
-Package pdftex.def Info: figures/architecture.png used on input line 146.
+Package pdftex.def Info: figures/architecture.png used on input line 152.
 (pdftex.def)             Requested size: 229.05917pt x 72.72276pt.
 
 <figures/hmc_concept.jpg, id=22, 537.4445pt x 362.36789pt>
 File: figures/hmc_concept.jpg Graphic file (type jpg)
 
 <use figures/hmc_concept.jpg>
-Package pdftex.def Info: figures/hmc_concept.jpg used on input line 160.
+Package pdftex.def Info: figures/hmc_concept.jpg used on input line 166.
 (pdftex.def)             Requested size: 161.23459pt x 108.7112pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+ [3 <./figures/architecture.png (PNG copy)> <./figures/hmc_concept.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
  \T1/ptm/m/it/11 1) \T1/ptm/b/n/11 Phys-i-cal Char-ac-ter-is-tics of 3D-stacked
 
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 182--183
+Underfull \hbox (badness 3281) in paragraph at lines 188--189
+\T1/ptm/b/n/11 Mem-ory: [][] \T1/ptm/m/n/11 The Ta-ble I[] il-lus-trates a com-
+par-i-son
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 188--189
 \T1/ptm/m/n/11 be-tween DDR3, DDR4, and HMC-style base-line
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 182--183
+Underfull \hbox (badness 3068) in paragraph at lines 188--189
 \T1/ptm/m/n/11 de-signs from three as-pects, in terms of power,
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 182--183
+Underfull \hbox (badness 5741) in paragraph at lines 188--189
 \T1/ptm/m/n/11 has bet-ter bandwidth-per-pin and bandwidth-per-
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 182--183
+Underfull \hbox (badness 1448) in paragraph at lines 188--189
 \T1/ptm/m/n/11 ex-ter-nal and in-ter-nal mem-ory band-width be-comes
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 182--183
+Underfull \hbox (badness 1990) in paragraph at lines 188--189
 \T1/ptm/m/n/11 near-memory pro-cess-ing is not solely to pro-vide
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-[3 <./figures/architecture.png (PNG copy)> <./figures/hmc_concept.jpg>]
 <figures/comparison_ndcores.png, id=26, 1181.16281pt x 450.18187pt>
 File: figures/comparison_ndcores.png Graphic file (type png)
 
 <use figures/comparison_ndcores.png>
-Package pdftex.def Info: figures/comparison_ndcores.png used on input line 189.
+Package pdftex.def Info: figures/comparison_ndcores.png used on input line 195.
 
 (pdftex.def)             Requested size: 236.22838pt x 90.03477pt.
 
@@ -729,35 +732,39 @@ Package pdftex.def Info: figures/comparison_ndcores.png used on input line 189.
 File: figures/tesseract_2.png Graphic file (type png)
 
 <use figures/tesseract_2.png>
-Package pdftex.def Info: figures/tesseract_2.png used on input line 202.
+Package pdftex.def Info: figures/tesseract_2.png used on input line 208.
 (pdftex.def)             Requested size: 252.40375pt x 79.49724pt.
 
-Overfull \hbox (6.68564pt too wide) in paragraph at lines 202--203
+Overfull \hbox (6.68564pt too wide) in paragraph at lines 208--209
 [][] 
  []
 
-[4 <./figures/comparison_ndcores.png> <./figures/tesseract_2.png>]
-<figures/ndc_gpu.png, id=35, 499.11469pt x 231.86626pt>
+[4 <./figures/comparison_ndcores.png>]
+<figures/ndc_gpu.png, id=34, 499.11469pt x 231.86626pt>
 File: figures/ndc_gpu.png Graphic file (type png)
 
 <use figures/ndc_gpu.png>
-Package pdftex.def Info: figures/ndc_gpu.png used on input line 216.
+Package pdftex.def Info: figures/ndc_gpu.png used on input line 222.
 (pdftex.def)             Requested size: 199.64232pt x 92.74484pt.
- [5 <./figures/ndc_gpu.png>]
-<figures/nda.png, id=40, 565.36218pt x 269.50688pt>
+ [5 <./figures/tesseract_2.png> <./figures/ndc_gpu.png>] <figures/nda.png, id=4
+0, 565.36218pt x 269.50688pt>
 File: figures/nda.png Graphic file (type png)
  <use figures/nda.png>
-Package pdftex.def Info: figures/nda.png used on input line 234.
+Package pdftex.def Info: figures/nda.png used on input line 240.
 (pdftex.def)             Requested size: 197.87971pt x 94.32881pt.
 
-Underfull \hbox (badness 3039) in paragraph at lines 239--240
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 245--246
 []\T1/ptm/m/n/11 Another type of re-con-fig-urable com-pute units,
  []
 
 <figures/hrl.png, id=41, 473.51906pt x 413.29407pt>
 File: figures/hrl.png Graphic file (type png)
  <use figures/hrl.png>
-Package pdftex.def Info: figures/hrl.png used on input line 243.
+Package pdftex.def Info: figures/hrl.png used on input line 249.
 (pdftex.def)             Requested size: 165.73415pt x 144.65508pt.
 
 [6 <./figures/nda.png> <./figures/hrl.png>]
@@ -766,31 +773,33 @@ File: figures/comparison_performance_energy.png Graphic file (type png)
 
 <use figures/comparison_performance_energy.png>
 Package pdftex.def Info: figures/comparison_performance_energy.png used on inpu
-t line 256.
+t line 262.
 (pdftex.def)             Requested size: 572.88892pt x 137.01154pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/ndc_graph_vertex_vs_edge.png, id=49, 866.48718pt x 514.92375pt>
+[7] <figures/ndc_graph_vertex_vs_edge.png, id=53, 866.48718pt x 514.92375pt>
 File: figures/ndc_graph_vertex_vs_edge.png Graphic file (type png)
 
 <use figures/ndc_graph_vertex_vs_edge.png>
 Package pdftex.def Info: figures/ndc_graph_vertex_vs_edge.png used on input lin
-e 279.
+e 285.
 (pdftex.def)             Requested size: 251.27484pt x 149.32405pt.
 
-Overfull \hbox (5.55673pt too wide) in paragraph at lines 279--280
+Overfull \hbox (5.55673pt too wide) in paragraph at lines 285--286
  [][] 
  []
 
-[7]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <figures/graph_partition_optimization.png, id=54, 549.55313pt x 243.91125pt>
 File: figures/graph_partition_optimization.png Graphic file (type png)
 
 <use figures/graph_partition_optimization.png>
 Package pdftex.def Info: figures/graph_partition_optimization.png used on input
- line 287.
+ line 293.
 (pdftex.def)             Requested size: 219.81735pt x 97.56276pt.
  [8 <./figures/comparison_performance_energy.png> <./figures/ndc_graph_vertex_v
 s_edge.png> <./figures/graph_partition_optimization.png>]
@@ -798,9 +807,9 @@ s_edge.png> <./figures/graph_partition_optimization.png>]
 File: figures/gpu_offload.png Graphic file (type png)
 
 <use figures/gpu_offload.png>
-Package pdftex.def Info: figures/gpu_offload.png used on input line 300.
+Package pdftex.def Info: figures/gpu_offload.png used on input line 306.
 (pdftex.def)             Requested size: 202.95465pt x 127.67473pt.
- (./main.bbl [9 <./figures/gpu_offload.png>]
+ [9 <./figures/gpu_offload.png>] (./main.bbl
 Underfull \hbox (badness 7451) in paragraph at lines 48--54
 []\T1/ptm/m/n/9 M. G. Fa-rooq, T. L. Graves-Abe, W. F. Lan-ders,
  []
@@ -810,7 +819,10 @@ Underfull \hbox (badness 1990) in paragraph at lines 111--115
 []\T1/ptm/m/n/9 R. Alver-son, D. Calla-han, D. Cum-mings, B. Koblenz,
  []
 
-)
+
+Underfull \vbox (badness 2096) has occurred while \output is active []
+
+ [10])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -822,7 +834,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the US letter (8.5in X 11in) paper size.
 
-[10] (./main.aux) ) 
+[11
+
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  3540 strings out of 493014
  49409 string characters out of 6133351
@@ -830,25 +844,25 @@ Here is how much of TeX's memory you used:
  7000 multiletter control sequences out of 15000+600000
  116461 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,35p,1774b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.
-enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/u
-rw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 743346 bytes).
+ 38i,10n,35p,1771b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on main.pdf (11 pages, 745503 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 116 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
